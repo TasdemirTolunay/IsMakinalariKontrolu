@@ -1,5 +1,3 @@
-# IsMakinalariKontrolu
-Socket-Programing
 #Usage
 ***
 - Run MerkeziSunucu to start the server.
@@ -7,12 +5,14 @@ Socket-Programing
 - If there is no error in the connection of the client to the server, the message "New Client Connected...." will appear on the MerkeziSunucu terminal.
 - When the KullaniciClient runs, you need to log in as a user. default username "admin", password "admin".
 - Actions you can do when you log in:
+
 ![Resim1](C:\Users\tasde\IdeaProjects\IsMakinalariKontrol\src\IsMakinalariImages\KullaniClientIslemler.jpg)
 
 - Run IsMakinalariClient.
 - If there is no error in the connection of the client to the server, the message "New Client Connected...." will appear on the MerkeziSunucu terminal.
 - You need to make a new machine entry from the IsMakinalariClient. Machine information you need to enter: machine name, machine type, machine speed (unit work per minute).
   For example:
+  
   
   ![Resim2](C:\Users\tasde\IdeaProjects\IsMakinalariKontrol\src\IsMakinalariImages\MakinaBilgileriOrnek.jpg)
 
