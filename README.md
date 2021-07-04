@@ -1,5 +1,3 @@
-# IsMakinalariKontrolu
-Socket-Programing
 #Usage
 ***
 - Run MerkeziSunucu to start the server.
